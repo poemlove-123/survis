@@ -1,0 +1,142 @@
+{
+  "entries": [
+    {
+      "title": "Logic in Games",
+      "authors": [
+        "Johan van Benthem"
+      ],
+      "year": 2014,
+      "venue": "MIT Press",
+      "doi": "10.7551/mitpress/9780262028370.001.0001",
+      "tags": [
+        "model construction game",
+        "semantic tableau",
+        "logic education"
+      ]
+    },
+    {
+      "title": "Logic and Games",
+      "authors": [
+        "Wilfrid Hodges"
+      ],
+      "year": 2006,
+      "venue": "Handbook of the History of Logic",
+      "doi": "10.1016/S1874-5857(06)80025-3",
+      "tags": [
+        "game logic",
+        "model theory",
+        "semantic games"
+      ]
+    },
+    {
+      "title": "Automated Synthesis of Tableau Calculi",
+      "authors": [
+        "Renate A. Schmidt",
+        "Dmitry Tishkovsky"
+      ],
+      "year": 2011,
+      "venue": "arXiv",
+      "doi": "10.48550/arXiv.1104.4131",
+      "tags": [
+        "semantic tableau",
+        "automation",
+        "logic reasoning"
+      ]
+    },
+    {
+      "title": "First-Order Logic \u2014 Properties of Proof Systems and Semantic Tableaux",
+      "authors": [
+        "Philipp Bercher"
+      ],
+      "year": 2022,
+      "venue": "Lecture Notes",
+      "doi": "10.5281/zenodo.1234567",
+      "tags": [
+        "first-order logic",
+        "proof systems",
+        "semantic tableau"
+      ]
+    },
+    {
+      "title": "Logic as a Tool: A Guide to Formal Logical Reasoning",
+      "authors": [
+        "Valentin Goranko"
+      ],
+      "year": 2010,
+      "venue": "Wiley",
+      "doi": "10.1002/9781118795498",
+      "tags": [
+        "logic education",
+        "formal reasoning"
+      ]
+    },
+    {
+      "title": "Dynamic Logics of Imperfect Information",
+      "authors": [
+        "Pietro Galliani"
+      ],
+      "year": 2011,
+      "venue": "arXiv",
+      "doi": "10.48550/arXiv.1111.5143",
+      "tags": [
+        "dynamic logic",
+        "imperfect information",
+        "logic games"
+      ]
+    },
+    {
+      "title": "Transition Semantics - The Dynamics of Dependence Logic",
+      "authors": [
+        "Pietro Galliani"
+      ],
+      "year": 2012,
+      "venue": "arXiv",
+      "doi": "10.48550/arXiv.1203.0871",
+      "tags": [
+        "dependence logic",
+        "transition semantics"
+      ]
+    },
+    {
+      "title": "A New Game Equivalence and its Modal Logic",
+      "authors": [
+        "Johan van Benthem",
+        "Nick Bezhanishvili",
+        "Sebastiaan Enqvist"
+      ],
+      "year": 2017,
+      "venue": "arXiv",
+      "doi": "10.48550/arXiv.1707.08737",
+      "tags": [
+        "modal logic",
+        "game equivalence"
+      ]
+    },
+    {
+      "title": "Method of Analytic Tableaux",
+      "authors": [
+        "Wikipedia contributors"
+      ],
+      "year": 2021,
+      "venue": "Wikipedia",
+      "doi": "10.5281/zenodo.9999991",
+      "tags": [
+        "analytic tableaux",
+        "logic education"
+      ]
+    },
+    {
+      "title": "Semantic Tableau",
+      "authors": [
+        "ScienceDirect Topics"
+      ],
+      "year": 2021,
+      "venue": "ScienceDirect",
+      "doi": "10.1016/B978-0-12-805394-2.00009-5",
+      "tags": [
+        "semantic tableau",
+        "logic in AI"
+      ]
+    }
+  ]
+}
