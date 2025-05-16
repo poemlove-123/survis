@@ -1,0 +1,92 @@
+[
+  {
+    "id": "badreddine2020logic",
+    "title": "Logic Tensor Networks",
+    "tags": [
+      "topic:neuro-symbolic",
+      "method:logic-networks",
+      "type:preprint"
+    ]
+  },
+  {
+    "id": "genesereth2003logic",
+    "title": "Logic-Based Artificial Intelligence",
+    "tags": [
+      "topic:logic-ai",
+      "type:encyclopedia",
+      "method:knowledge-representation"
+    ]
+  },
+  {
+    "id": "goranko2010tableau",
+    "title": "First-order semantic tableau",
+    "tags": [
+      "topic:semantic-tableaux",
+      "method:proof",
+      "type:lecture-notes"
+    ]
+  },
+  {
+    "id": "laurent2010game",
+    "title": "Game semantics for first-order logic",
+    "tags": [
+      "topic:game-semantics",
+      "logic:first-order",
+      "type:lecture-notes"
+    ]
+  },
+  {
+    "id": "leitsch2004automated",
+    "title": "Automated Model Building",
+    "tags": [
+      "topic:model-construction",
+      "method:automation",
+      "type:book"
+    ]
+  },
+  {
+    "id": "lund2000game",
+    "title": "Game-theoretical semantics for first-order logic",
+    "tags": [
+      "topic:game-semantics",
+      "logic:first-order",
+      "type:lecture-notes"
+    ]
+  },
+  {
+    "id": "tum2019tableaux",
+    "title": "Propositional and First-order Logic Tableaux",
+    "tags": [
+      "topic:semantic-tableaux",
+      "logic:propositional",
+      "type:lecture-notes"
+    ]
+  },
+  {
+    "id": "vanbenthem2001logic",
+    "title": "Logic Games are Complete for Game Logics",
+    "tags": [
+      "topic:game-logic",
+      "type:preprint",
+      "property:completeness"
+    ]
+  },
+  {
+    "id": "wikipedia2024game",
+    "title": "Game semantics",
+    "tags": [
+      "topic:game-semantics",
+      "type:reference",
+      "source:wikipedia"
+    ]
+  },
+  {
+    "id": "springer1990automated",
+    "title": "Automated model construction: A logic-based approach",
+    "tags": [
+      "topic:model-construction",
+      "method:logic-based",
+      "type:journal"
+    ]
+  }
+]
